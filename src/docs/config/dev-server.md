@@ -50,6 +50,7 @@ which will open the source file directly in your IDE.
 
 
 ## Example
+This partial example of the [Stencil Config File](https://stenciljs.com/docs/config) sets up the Integrated Dev Server for port 4444 and provides an example on how to test encryption locally.
 
 ```tsx
 import { readFileSync } from 'fs';
